@@ -126,7 +126,7 @@ If you prefer to deploy without using the interactive CLI installer:
 
 1. **Clone the Repository:**
 ```bash
-git clone [https://github.com/your-username/genesys-ocr-blueprint.git](https://github.com/your-username/genesys-ocr-blueprint.git)
+git clone [https://github.com/bhkbdbhatt/genesys-ocr-blueprint.git](https://github.com/bhkbdbhatt/genesys-ocr-blueprint.git)
 cd genesys-ocr-blueprint
 
 ```
