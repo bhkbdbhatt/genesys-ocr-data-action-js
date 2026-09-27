@@ -1,0 +1,33 @@
+{
+    "name": "genesys-ocr-blueprint",
+    "version": "1.0.0",
+    "description": "Automated CLI installer and SDK for deploying Genesys Cloud OCR Data Actions with AWS Textract",
+    "main": "index.js",
+    "bin": {
+        "genesys-ocr": "./bin/cli.js"
+    },
+    "scripts": {
+        "deploy": "node bin/cli.js deploy"
+    },
+    "keywords": [
+        "genesys-cloud",
+        "genesys-architect",
+        "data-actions",
+        "aws-textract",
+        "ocr",
+        "terraform",
+        "archy"
+    ],
+    "author": "Bhargav Bhatt <bhk.bdbhatt@gmail.com>",
+    "license": "MIT",
+    "dependencies": {
+        "chalk": "^4.1.2",
+        "commander": "^11.1.0",
+        "execa": "^5.1.1",
+        "fs-extra": "^11.2.0",
+        "inquirer": "^8.2.6"
+    },
+    "engines": {
+        "node": ">=16.0.0"
+    }
+}
