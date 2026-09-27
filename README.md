@@ -1,4 +1,3 @@
-```markdown
 # Genesys Cloud Data Action OCR Blueprint (`genesys-ocr-blueprint`)
 
 [![npm version](https://img.shields.io/npm/v/genesys-ocr-blueprint.svg)](https://www.npmjs.com/package/genesys-ocr-blueprint)
