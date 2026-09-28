@@ -170,7 +170,4 @@ archy create --file ocr_flow.yaml
 * **License:** [MIT License](https://www.google.com/search?q=LICENSE)
 * **Issues & Bug Reports:** [GitHub Issues](https://www.google.com/search?q=https://github.com/bhkbdbhatt/genesys-ocr-blueprint/issues)
 * **Support:** For technical inquiries or custom integration support, contact `bhk.bdbhatt@gmail.com`.
-
-```
-
-```
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/bhargavbhatt)
